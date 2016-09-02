@@ -1,5 +1,6 @@
 #Instruction
 **Please provide the answer based on your experience.**
+
 You will be submitting the answer via email.These questions will help us assess you before and during the interview process.
 In your responses, please be as detailed as you want based on your experience and knowledge. Also, remember to state any restrictions or assumptions you have before presenting the solution.
 
@@ -12,9 +13,9 @@ You can provide your answer in any format( text, code, diagram, etc)
 - Select one of following keyword why you are applying for the job 
   * technical curiosity
   * developer fame
-  * working for famous company
+  * working for the company you are intersted in
   * jumping on a ‘Rocket’
-  * make tons of money
+  * better salary and working environment
   * experience in new area
   * (your choice)
 - Tell me about a situation when you aren’t able to complete you work. What happened? What did you learn from the situation and experience?
