@@ -42,7 +42,7 @@ We’re passionate about building an incredible work culture. At MyMusicTaste, w
 - [Test Engineer](testengineer.md)
 
 ###Who we are looking for
-  - You must be able to define your assignment and be able to take responsiblity.
+  - You must be able to define your assignment and be able to take responsibility.
   - Your work must mean more to you than just checking in and out of the office.
   - You must be willing to express your opinions and expertise about whatever architecture, software, or process you are working on based on your own experience, research, and data. And you should endeavor to improve your expertise.
   - You are the sole owner of your career and need must decide when and what to learn.
@@ -96,4 +96,4 @@ We give preference to candidates with:
 - Participation in tech community or programming-related user group
 - Pet project
 - Tech book list
-- Conference activity (presentation or attendence)
+- Conference activity (presentation or attendance)
